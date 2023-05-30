@@ -1,5 +1,5 @@
 package Arrays;
-
+//A Program illustrating an Array
 public class Arraysbasic {
     public static void main(String args[]) {
         //creating an array 
